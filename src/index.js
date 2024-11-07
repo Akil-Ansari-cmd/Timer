@@ -5,6 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Cart from './Components/Cart';
 import UseEffect from './Components/UseEffect';
+import UseEffect2 from './Components/UseEffect2';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
